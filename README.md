@@ -1,4 +1,12 @@
 ---
+# MY SHOPPING LIST ( Deployed using Azure Static WebApp , GitHub Actions, VUE Framework)
+  https://lemon-pebble-0d6e57110.azurestaticapps.net/products
+
+
+
+
+
+
 page_type: sample
 languages:
   - javascript
