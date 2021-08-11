@@ -1,5 +1,5 @@
 ---
-# MY SHOPPING LIST ( Deployed using Azure Static WebApp , GitHub Actions, VUE Framework)
+# MY SHOPPING LIST ( Deployed using Azure Static WebApp , GitHub Actions, React - JavaScript library)
   https://lemon-pebble-0d6e57110.azurestaticapps.net/products
 
 
