@@ -4,19 +4,6 @@
 
 
 
-
-
-
-page_type: sample
-languages:
-  - javascript
-  - typescript
-products:
-  - azure functions
-description: 'Apps that can be used with as a starting point for some MS Learn Modules.'
-urlFragment: 'https://github.com/MicrosoftDocs/mslearn-staticwebapp'
----
-
 # Official Microsoft Sample
 
 Follow the hands-on tutorial to [publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=mslearn_staticwebapp-github-jopapa).
@@ -40,11 +27,9 @@ The apps written in the following JavaScript frameworks/libraries:
 
 | folder          | Description                                                                                                 |
 | --------------- | ----------------------------------------------------------------------------------------------------------- |
-| **angular-app** | [Sample Angular app](https://github.com/MicrosoftDocs/mslearn-staticwebapp/blob/master/angular-app)         |
-| **api-starter** | [Sample Azure Functions app](https://github.com/MicrosoftDocs/mslearn-staticwebapp/blob/master/api-starter) |
+|
 | **react-app**   | [Sample React app](https://github.com/MicrosoftDocs/mslearn-staticwebapp/blob/master/react-app)             |
-| **svelte-app**  | [Sample Svelte app](https://github.com/MicrosoftDocs/mslearn-staticwebapp/blob/master/svelte-app)           |
-| **vue-app**     | [Sample Vue app](https://github.com/MicrosoftDocs/mslearn-staticwebapp/blob/master/vue-app)                 |
+              |
 
 ## Prerequisites
 
